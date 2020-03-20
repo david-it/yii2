@@ -60,7 +60,7 @@
         "forum": "http://www.yiiframework.com/forum/",
         "wiki": "http://www.yiiframework.com/wiki/",
         "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/david-it/yii2"
+        "source": "https://github.com/yiisoft/yii2"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -110,7 +110,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "custom": "2.0.x-dev"
+            "dev-custom": "2.0.x-dev"
         },
         "composer-exit-on-patch-failure": true,
         "patches": {
