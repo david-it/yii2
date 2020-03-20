@@ -814,6 +814,8 @@
                 $error.empty();
                 $errorElement.removeClass(data.settings.validatingCssClass + ' ' + data.settings.errorCssClass + ' ')
                   .addClass(data.settings.successCssClass);
+
+                // Branch custom
             }
             attribute.value = getValue($form, attribute);
         }
