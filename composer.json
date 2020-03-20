@@ -110,8 +110,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev",
-            "dev-custom": "2.0.32"
+            "dev-master": "2.0.x-dev"
         },
         "composer-exit-on-patch-failure": true,
         "patches": {
