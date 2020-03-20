@@ -814,6 +814,7 @@
                 $error.empty();
                 $errorElement.removeClass(data.settings.validatingCssClass + ' ' + data.settings.errorCssClass + ' ')
                   .addClass(data.settings.successCssClass);
+                  // Dev master
             }
             attribute.value = getValue($form, attribute);
         }
